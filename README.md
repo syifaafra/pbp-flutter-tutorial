@@ -7,4 +7,4 @@ NPM : 2106707151\
 Kelas : PBP-D
 
 ## Link Assignments
-https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments/tutorial
+https://pbp-fasilkom-ui.github.io/ganjil-2023/assignments
